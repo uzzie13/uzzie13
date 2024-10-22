@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1MK8R9gNj1Yuat2ZNvY6sj9_UIUBfXcki/view?usp=drive_link](https://drive.google.com/file/d/1MK8R9gNj1Yuat2ZNvY6sj9_UIUBfXcki/view?usp=drive_link)
 
-- ⚡ Fun fact:**I have a collection of over 100 quirky coffee mugs from my travels, and I always use a different one each morning to start my day with a smile!**
+- ⚡ Fun fact: **I have a collection of over 100 quirky coffee mugs from my travels, and I always use a different one each morning to start my day with a smile!**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
