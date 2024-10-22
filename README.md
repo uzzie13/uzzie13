@@ -1,20 +1,20 @@
 ![logo](https://github.com/uzzie13/uzzie13/blob/main/Screenshot%202024-10-22%20124523.png)
 <h1 align="center">Hi 👋, I'm Waleed Abdur Rehman</h1>
-<h3 align="center"> As a SharePoint Project Manager at Code Creators Inc, I coordinated and executed various projects involving internal and external resources, ensuring on-time, within-scope, and within-budget delivery. I developed and tracked project plans, managed multiple stakeholder relationships, performed risk management, and reported on project performance using appropriate systems and tools. I also have an Advanced Diploma in Software Engineering from Aptech Institute from Pakistan, and I am certified in Ethical Hacking, Digital Marketing, and Artificial Intelligence. I am passionate about applying my IT skills and knowledge to solve complex problems and create value for organizations. I have a positive, self-motivated, and energetic attitude, and I enjoy collaborating and learning from others to gain hands on expertise.</h3>
+<h3 align="center"> As a SharePoint Project Manager at Code Creators Inc., I have had the privilege of coordinating and executing a variety of projects that leverage both internal and external resources. My focus has always been on ensuring timely delivery while remaining within scope and budget. I have developed and monitored project plans, managed relationships with multiple stakeholders, conducted risk management, and reported on project performance utilizing appropriate tools and systems. In addition to my professional experience, I hold an Advanced Diploma in Software Engineering from Aptech Institute and am a certified White Hacker. I am passionate about leveraging my IT skills and knowledge to tackle complex problems and create value for organizations. I approach my work with a positive, self-motivated, and energetic attitude, and I truly enjoy collaborating with others to enhance my expertise and contribute effectively to team goals.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzzie13&label=Profile%20views&color=0e75b6&style=flat" alt="uzzie13" /> </p>
 
-- 📫 How to reach me **waleed.abdur.rehman@hotmail.com**
+- 📫 How to reach me: **waleed.abdur.rehman@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MK8R9gNj1Yuat2ZNvY6sj9_UIUBfXcki/view?usp=drive_link](https://drive.google.com/file/d/1MK8R9gNj1Yuat2ZNvY6sj9_UIUBfXcki/view?usp=drive_link)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1MK8R9gNj1Yuat2ZNvY6sj9_UIUBfXcki/view?usp=drive_link](https://drive.google.com/file/d/1MK8R9gNj1Yuat2ZNvY6sj9_UIUBfXcki/view?usp=drive_link)
 
-- ⚡ Fun fact **I have a collection of over 100 quirky coffee mugs from my travels, and I always use a different one each morning to start my day with a smile!**
+- ⚡ Fun fact: **I have a collection of over 100 quirky coffee mugs from my travels, and I always use a different one each morning to start my day with a smile!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/waleed-abdur-rehman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waleed-abdur-rehman/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/waleed-abdur-rehman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waleed-abdur-rehman/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
