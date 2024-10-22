@@ -1,6 +1,6 @@
 ![logo](https://github.com/uzzie13/uzzie13/blob/main/Screenshot%202024-10-22%20124523.png)
 <h1 align="center">Hi 👋, I'm Waleed Abdur Rehman</h1>
-<h3 align="center"> As a SharePoint Project Manager at Code Creators Inc., I ensure timely and budget-compliant project delivery, manage stakeholders, and report on performance. I hold an Advanced Diploma in Software Engineering and am a certified White Hacker, passionate about solving complex problems and collaborating with others.</h3>
+<h3 align="center"> I am currently studying ITS from the university of Toronto. I've worked previously as an SharePoint Project Manager at Code Creators Inc. I have ensured timely and budget-compliant project-delivery, managed multiple stakeholders, and reports on performance. I also hold an Advanced Diploma in Software Engineering and I'm a (CEH) Certified Ethical Hacker, passionate about solving complex problems and collaborating with others.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
